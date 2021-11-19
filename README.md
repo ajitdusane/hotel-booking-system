@@ -47,7 +47,3 @@ likewise more test cases can be tested...
 Note:  The HotelbookingApplication has 3 number of rooms i.e. SIZE set however this can be changed easily to test application for different hotel size 
 
 BookingManager bookingManager = new BookingManager(SIZE);
-
-
-
-
